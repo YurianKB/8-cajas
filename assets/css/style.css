@@ -1,0 +1,28 @@
+p{
+  width: 70px;
+  height: 70px;
+  background: #A9724D;
+  border: 3px solid #502B13;
+}
+
+
+.cajaBloque{
+  display: block;
+}
+
+
+.cajaDentro{
+  display: inline-block;
+}
+
+
+.contenedorCajas{
+    width: 250px;
+    height: 100px;
+    background: #DC5EA4;
+    border: 3px solid #9C366E;
+}
+
+.cajaFuera{
+  display: inline-block;
+}
