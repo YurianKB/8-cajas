@@ -1,20 +1,20 @@
-p{
+span{
   width: 70px;
   height: 70px;
+  margin-top:1%;
   background: #A9724D;
   border: 3px solid #502B13;
 }
 
-
 .cajaBloque{
   display: block;
+  margin-bottom:1%;
 }
-
 
 .cajaDentro{
   display: inline-block;
+  margin-top:5%;
 }
-
 
 .contenedorCajas{
     width: 250px;
@@ -25,4 +25,9 @@ p{
 
 .cajaFuera{
   display: inline-block;
+}
+
+.cajaFuera1{
+    display: inline-block;
+    margin-left:1%;
 }
